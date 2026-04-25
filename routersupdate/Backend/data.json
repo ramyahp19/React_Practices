@@ -1,0 +1,15 @@
+{
+  "data": [
+    {
+      "trainer": "wsa",
+      "subject": "AdvanceJAva",
+      "id": "JSNxAsYn8Ts"
+    },
+    {
+      "trainer": "dsxxc",
+      "subject": "ww",
+      "id": "kYpaX032ktc"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

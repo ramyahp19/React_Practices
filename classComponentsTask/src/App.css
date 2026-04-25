@@ -1,0 +1,94 @@
+body{
+    padding:30px;
+    font-family:Arial;
+}
+
+.container{
+    display:flex;
+    gap:40px;
+}
+
+/* outer big box */
+.outer{
+    border:4px solid black;
+    padding:15px;
+}
+
+/* inner border */
+.inner{
+    border:3px solid black;
+    padding:15px;
+    display:flex;
+    gap:15px;
+}
+
+.column{
+    flex-direction:column;
+}
+
+/* squares */
+.square{
+    border:3px solid black;
+}
+
+.big{
+    width:80px;
+    height:80px;
+}
+
+.small{
+    width:40px;
+    height:40px;
+}
+
+.rect{
+    border:3px solid black;
+    width:80px;
+    height:60px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.circle{
+    width:30px;
+    height:30px;
+    border:3px solid black;
+    border-radius:50%;
+}
+
+.left, .right{
+    display:flex;
+    flex-direction:column;
+    gap:15px;
+}
+
+.group{
+    border:3px solid black;
+    padding:10px;
+    display:flex;
+    gap:10px;
+}
+
+.bottom{
+    display:flex;
+    gap:20px;
+}
+
+.top-group, .bottom-group{
+    display:flex;
+    gap:20px;
+}
+
+.mini-group{
+    border:3px solid black;
+    padding:8px;
+    display:flex;
+    gap:8px;
+}
+
+.text{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}

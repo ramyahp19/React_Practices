@@ -1,0 +1,13 @@
+#max{
+    border:2px solid rebeccapurple ;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%; 
+    position: absolute;
+      
+  left: 1200px; 
+}
+#arrow{
+    height: 200px;
+    width:200px;
+}

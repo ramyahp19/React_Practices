@@ -1,0 +1,36 @@
+.container{
+display:flex;
+justify-content:center;
+gap:120px;
+margin-top:40px;
+}
+
+.box{
+width:420px;
+height:650px;
+border:1px solid gray;
+padding:20px;
+}
+
+.row{
+display:flex;
+justify-content:space-between;
+align-items:center;
+margin-top:20px;
+}
+
+button{
+background:blue;
+color:white;
+border:none;
+padding:6px 12px;
+cursor:pointer;
+}
+
+span{
+margin:0 10px;
+}
+.home{
+    position: relative;
+    left: 150px;
+}
