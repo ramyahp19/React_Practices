@@ -5,6 +5,9 @@ A collection of mini React projects built to practice core concepts like compone
 ## Tech Stack
 React.js • JavaScript • HTML • CSS
 
+##Purpose
+Learning, experimenting, and improving React skills.
+
 ## Run Locally
 ```bash
 git clone https://github.com/ramyahp19/React_Practices.git
@@ -13,6 +16,4 @@ npm install
 npm start
 
 ---
-##Purpose
 
-Learning, experimenting, and improving React skills.
