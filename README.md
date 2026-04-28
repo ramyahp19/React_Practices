@@ -12,6 +12,7 @@ cd React_Practices
 npm install
 npm start
 
+-----------------
 ##Purpose
 
 Learning, experimenting, and improving React skills.
